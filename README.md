@@ -34,4 +34,6 @@ To meet the acceptance criteria, I did the following:
 -  Researched how to create a profile team generator using a HTML fill in structure
 -  Used node.js to fill in html structure and create generator
 
+[Link to video recording]()
+
 
